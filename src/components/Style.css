@@ -1,0 +1,14 @@
+.style {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.Assign-cont {
+  background-color: white;
+  /* display: flex;
+  flex-direction: column; */
+  margin-top: 50%;
+}
+.btn {
+  width: 70px;
+}

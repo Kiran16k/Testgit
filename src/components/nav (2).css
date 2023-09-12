@@ -1,0 +1,65 @@
+* {
+  background-image: url("C:\Users\DELL\Desktop\Interone\pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  border: 2px solid whitesmoke;
+  background-color: antiquewhite;
+}
+.navbar {
+  display: flex;
+  margin-top: 1%;
+  background-image: none;
+  background-color: antiquewhite;
+  border: 2px solid whitesmoke;
+  background-image: none;
+  margin-bottom: 1%;
+  padding: 1%;
+}
+.inputBox {
+  border: 2px solid black;
+  margin-right: 30px;
+  padding: 0.2%;
+
+  color: whitesmoke;
+}
+p {
+  text-align: justify;
+  padding: 1%;
+  background-image: none;
+}
+#h {
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  color: greenyellow;
+}
+footer {
+  display: flex;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  background-color: antiquewhite;
+  border: 2px solid whitesmoke;
+}
+main {
+  background-color: aqua;
+  min-height: 60vh;
+  border: 2px solid whitesmoke;
+  color: whitesmoke;
+}
+article {
+  background-image: none;
+  float: right;
+  width: 45%;
+}
+aside {
+  float: left;
+  background-image: none;
+  width: 45%;
+}
+#footer {
+  background-image: none;
+}

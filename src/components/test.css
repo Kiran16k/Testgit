@@ -1,0 +1,22 @@
+.Main-Container {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  margin-top: 20%;
+  padding: 1%;
+  background-color: cadetblue;
+  min-height: 40vh;
+  min-width: 40vw;
+}
+button {
+  background-color: bisque;
+  color: red;
+  width: 50px;
+}
+body {
+  background-color: black;
+}
+span {
+  font-style: italic;
+  font-size: larger;
+}
